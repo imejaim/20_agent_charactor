@@ -23,8 +23,8 @@
 ## ✨ Main Visual Variants (메인 비주얼)
 | 구분 | 일러스트 | 픽셀 아트 |
 | :--- | :---: | :---: |
-| **인사/활기** | ![안녕하세요!](./JEM_Daeri_hello.png) | ![인사](./JEM_Daeri_pixel_hi.svg) |
-| **신남/흥분** | ![신남](./JEM_Daeri_excited.png) | ![신남](./JEM_Daeri_pixel_excited.svg) |
+| **인사/활기** | ![안녕하세요!](https://raw.githubusercontent.com/imejaim/20_agent_charactor/master/.agent/skills/JEM_Daeri/JEM_Daeri_hello.png) | ![인사](./JEM_Daeri_pixel_hi.svg) |
+| **신남/흥분** | ![신남](https://raw.githubusercontent.com/imejaim/20_agent_charactor/master/.agent/skills/JEM_Daeri/JEM_Daeri_excited.png) | ![신남](./JEM_Daeri_pixel_excited.svg) |
 
 ## 👾 Pixel Expressions (픽셀 표정 모음)
 상황에 맞춰 다양한 픽셀 표정을 활용합니다.
